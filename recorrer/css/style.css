@@ -171,3 +171,10 @@ ul.list > li.item a:visited {
 .item:last-child {
   border-bottom: none;
 }
+.bg-white{
+  background-color: var(--white);
+  color: var(--hevymetal);
+}
+.color-black{
+  color: var(--hevymetal);
+}
